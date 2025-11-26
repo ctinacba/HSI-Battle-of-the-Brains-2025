@@ -5,3 +5,5 @@ Challenge: HSI BotB Fall 2025: "Design a business solution that leverages AI sol
 
 To access, it is deployed on the netifly on link below to view:
 ()
+
+To read case file and learn more: https://github.com/ctinacba/HSI-Battle-of-the-Brains-2025/blob/4ca8d6aecd8e005dc8f5bea691d004d0145cfdb8/HSI%20BOTB%20Case%202025%20(1).pdf
